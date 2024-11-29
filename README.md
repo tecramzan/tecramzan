@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **MERN Sta
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Dart, C++, JavaScript, SQL
+- **Languages**: Dart, C++, JavaScript, SQFLite
 - **Frameworks & Libraries**: Flutter, Firebase, Node.js, Express, React, MongoDB
-- **Database**: Firebase Realtime Database, MongoDB, SQLite
-- **Tools**: Git, GitHub, VSCode, Android Studio, Xcode, Postman
+- **Database**: Firebase Realtime Database, MongoDB, SQFLite
+- **Tools**: Git, GitHub, VSCode, Android Studio, Postman
 - **Others**: REST APIs, JSON, HTTP requests
 
 ## 🚀 Projects
@@ -41,7 +41,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **MERN Sta
 
 - Email: veer27420@gmail.com
 - LinkedIn:  https://www.linkedin.com/in/muhammad-ramzan-aa15a2300/
-- Twitter: [Your Twitter Handle]
 
 Feel free to reach out if you have any questions, want to collaborate, or discuss any exciting projects!
 
