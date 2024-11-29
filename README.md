@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Muhammad Ramzan 👋
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **MERN Stack Developer**, and **Flutter Developer**. I specialize in **building cross-platform mobile apps**, crafting **clean and dynamic UIs**, and integrating with **Firebase**. I’m driven by a desire to solve complex problems, innovate, and create amazing mobile experiences.
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **MERN Sta
 
 ## 🚀 Projects
 
-### [tecramzan](https://github.com/[YourUsername]/tecramzan)
+### [tecramzan](https://github.com/tecramzan/tecramzan)
 
 - **Repository Overview**: This repository showcases my work with **Flutter** and **MERN stack** projects. I focus on creating **dynamic mobile applications** with responsive UIs and seamless integration with **Firebase** and **Node.js back-end**.
   
@@ -39,13 +39,13 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **MERN Sta
 
 ## 📫 How to Reach Me
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile Link]
+- Email: veer27420@gmail.com
+- LinkedIn:  https://www.linkedin.com/in/muhammad-ramzan-aa15a2300/
 - Twitter: [Your Twitter Handle]
 
 Feel free to reach out if you have any questions, want to collaborate, or discuss any exciting projects!
 
 ## 📝 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad Ramzan&show_icons=true&count_private=true&hide=prs)
 
