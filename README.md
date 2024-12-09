@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 🚀 I specialize in crafting dynamic cross-platfo
 ## **🧐 About Me**  
 - 💼 **Roles:** Software Engineer | MERN Stack Developer | Flutter Developer  
 - 🎨 **Expertise:** Cross-platform app development, dynamic UI/UX design, and real-time integrations.  
-- 🔧 **Skills:** Proficient in **C++**, **Dart**, **JavaScript**, and **Node.js** for building robust software solutions.  
+- 🔧 **Skills:** Proficient in **C++**, **Dart**, **JavaScript**, **Python**, and **Node.js** for building robust software solutions.  
 - 🌱 **Learning Focus:** Always exploring the latest in mobile development, cloud integration, and state management.  
 - 🌍 **Open Source:** Actively contributing to open-source projects and collaborative coding communities.  
 
@@ -17,6 +17,7 @@ Welcome to my GitHub profile! 🚀 I specialize in crafting dynamic cross-platfo
 ## **🛠️ Tech Stack**
 
 ### **🚀 Languages**
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
