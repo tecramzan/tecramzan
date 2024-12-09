@@ -60,10 +60,13 @@ Welcome to my GitHub profile! 🚀 I specialize in crafting dynamic cross-platfo
 
 ---
 
+## **📈 GitHub Activity**
+[![Muhammad's Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammad-ramzan&theme=react-dark)](https://github.com/muhammad-ramzan)
+
+---
+
 ## **📫 Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-ramzan-aa15a2300/) 
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/9kCWotUGkX/) 
   
-
 Feel free to reach out for collaborations, discussions, or just to say hi! 😊
-
