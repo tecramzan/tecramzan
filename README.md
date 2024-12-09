@@ -61,8 +61,8 @@ Welcome to my GitHub profile! 🚀 I specialize in crafting dynamic cross-platfo
 ---
 
 ### 📈 GitHub Activity:
-<p align="center">
-  <img src="https:// https://activity-graph.herokuapp.com/graph?username=muhammad-ramzan&theme=react&hide_border=true" alt="GitHub Activity">
+ <p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=muhammad-ramzan&theme=react&hide_border=true" alt="GitHub Activity">
 </p>
 
 ---
