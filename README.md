@@ -1,4 +1,4 @@
-# **👨‍💻 Muhammad Ramzan**  
+# 👨‍💻 Muhammad Ramzan  
 **🎯 Software Engineer | MERN Stack Developer | Flutter Enthusiast**
 
 Welcome to my GitHub profile! 🚀 I specialize in crafting dynamic cross-platform mobile applications, building scalable backend systems, and creating seamless user experiences. I’m passionate about solving complex problems and delivering top-notch solutions.
@@ -62,7 +62,7 @@ Welcome to my GitHub profile! 🚀 I specialize in crafting dynamic cross-platfo
 
 ### 📈 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadam-Barkat&theme=react&hide_border=true" alt="GitHub Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-ramzan&theme=react&hide_border=true" alt="GitHub Activity">
 </p>
 
 ---
