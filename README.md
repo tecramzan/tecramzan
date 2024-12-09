@@ -1,4 +1,3 @@
-
 👋 Hi, I'm Muhammad Ramzan
 🎯 Software Engineer | MERN Stack Developer | Flutter Expert
 🌟 Passionate about building innovative solutions and creating seamless user experiences!
@@ -12,9 +11,13 @@ Highlights:
 🛠️ Experienced with Provider for state management and Firebase for real-time solutions.
 🎯 Tech Enthusiast: Always exploring emerging technologies and improving algorithmic problem-solving skills.
 🛠 My Technical Toolkit
-Languages	Frameworks & Libraries	Tools & Platforms
-Dart, JavaScript, C++, Python	Flutter, Node.js, Express, React	Firebase, Git, Postman, VSCode, Android Studio
-MongoDB, SQFLite, Firebase Realtime Database	Provider, REST APIs, JSON	GitHub, Cloud Functions
+Languages
+
+
+Frameworks & Libraries
+
+Tools & Platforms
+
 🌟 My Projects
 🛠 Cross-Platform Mobile Apps with Flutter
 Dynamic BMI Calculator: Intuitive app with Firebase integration for real-time data tracking and BMI history.
@@ -26,8 +29,8 @@ Tecramzan Repo: Showcase of end-to-end web and mobile projects integrating Flutt
 🏅 Open Source Contributor: Contributed to impactful open-source projects focused on web and mobile development.
 🔍 Innovator: Built tools to streamline app performance and user engagement.
 📫 Let's Connect
-🌐 LinkedIn Profile
-📧 Email: veer27420@gmail.com
+
+
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tecramzan&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tecramzan&theme=radical" alt="GitHub Streak" /> </p>
