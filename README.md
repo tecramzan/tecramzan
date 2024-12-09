@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **MERN Sta
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Dart, C++, JavaScript, SQFLite
+- **Languages**: Dart, C++, JavaScript, SQFLite, Python
 - **Frameworks & Libraries**: Flutter, Firebase, Node.js, Express, React, MongoDB
 - **Database**: Firebase Realtime Database, MongoDB, SQFLite
 - **Tools**: Git, GitHub, VSCode, Android Studio, Postman
