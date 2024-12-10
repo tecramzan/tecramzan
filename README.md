@@ -32,6 +32,7 @@ Welcome to my GitHub profile! 🚀 I specialize in crafting dynamic cross-platfo
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Sqflite](https://img.shields.io/badge/-Sqflite-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### **🛠️ Tools**
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
