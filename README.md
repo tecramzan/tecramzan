@@ -60,11 +60,8 @@ Welcome to my GitHub profile! 🚀 I specialize in crafting dynamic cross-platfo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ramzan&theme=dark" alt="GitHub Streak">
 </p>
 
----
-
-### 📈 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-ramzan&theme=react&hide_border=false" alt="GitHub Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-ramzan&theme=react&hide_border=true" alt="GitHub Activity">
 </p>
 
 
